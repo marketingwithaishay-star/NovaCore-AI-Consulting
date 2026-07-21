@@ -1,10 +1,30 @@
-# NovaCore AI Consulting
+# 🚀 NovaCore AI Consulting
 
-## Project Overview
+A modern AI Consulting & Digital Transformation landing page designed and developed from scratch using WordPress and Elementor.
 
-NovaCore AI Consulting is a fictional AI & Digital Transformation company developed as part of an internship assignment.
+---
 
-## Built With
+## 📌 Project Overview
+
+NovaCore AI Consulting is a fictional company created as part of an internship assignment. The objective was to build a modern, responsive, and professional landing page that reflects the branding and services of an AI consulting business.
+
+---
+
+## ✨ Features
+
+- Modern Hero Section
+- Professional UI/UX
+- AI Consulting Branding
+- Services Showcase
+- Industries We Transform
+- Testimonials
+- FAQ Section
+- Contact CTA
+- Fully Responsive (Desktop, Tablet & Mobile)
+
+---
+
+## 🛠 Tools & Technologies
 
 - WordPress
 - Elementor
@@ -12,24 +32,56 @@ NovaCore AI Consulting is a fictional AI & Digital Transformation company develo
 - Happy Addons
 - Canva
 
-## Features
+---
 
-- Responsive Landing Page
-- AI Consulting Branding
-- Custom UI Design
-- Services Section
-- Industries Section
-- Testimonials
-- FAQ
-- Contact CTA
+## 🎨 Brand Identity
 
-## Live Demo
+**Primary Color**
+
+`#F67F2D`
+
+**Style**
+
+- Modern
+- Corporate
+- Minimal
+- Dark Theme
+
+---
+
+## 📱 Responsive Design
+
+The landing page has been optimized for:
+
+- Desktop
+- Tablet
+- Mobile
+
+---
+
+## 🌐 Live Demo
 
 https://dev-ai-transforming.pantheonsite.io/homepage/
 
-## Developed By
+---
 
-Ayesha Tariq
+## 📁 Project Files
 
-Email:
-marketingwithaishay@gmail.com
+- Documentation
+- Screenshots
+- Canva Social Media Designs
+- Logo Files
+
+---
+
+## 👩‍💻 Developed By
+
+**Ayesha Tariq**
+
+WordPress Developer | Elementor Specialist | Canva Designer
+
+Email: marketingwithaishay@gmail.com
+
+LinkedIn: (Optional)
+
+---
