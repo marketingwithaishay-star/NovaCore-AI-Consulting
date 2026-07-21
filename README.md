@@ -51,7 +51,7 @@ The landing page has been optimized for:
 
 ## 🌐 Live Demo
 
-https://dev-ai-transforming.pantheonsite.io/homepage/
+https://dev-ai-transforming.pantheonsite.io/
 
 ## 📁 Project Files
 
